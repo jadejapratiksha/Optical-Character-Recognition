@@ -1,0 +1,10 @@
+numpy
+opencv-python
+tensorflow
+scikit-learn
+matplotlib
+Pillow
+pytesseract
+h5py
+pandas
+PyWavelets

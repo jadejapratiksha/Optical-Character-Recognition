@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.vscode/
+*.pkl
+*.zip
+query.png
+Seg.png
+reg.png
+recognize.txt
